@@ -6,3 +6,6 @@
 * first change in feature123
 * new line
 * new new line
+~~1~~
+**1**
+__1__
